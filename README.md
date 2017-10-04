@@ -1,1 +1,1 @@
-# Python3-Study
+收集Python3有关的学习资源
